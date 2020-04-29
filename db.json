@@ -7,5 +7,21 @@
   	],
   	"profile": {
     	"name": "typicode"
+  	},
+  	"weather-date": {
+  		"daily": {
+  			"data": [
+  				{
+  					"temperatureMin": 18.2,
+  					"temperatureMax": 28.5,
+  					"summary": "Today is a good weather one"
+  				},
+  				{
+  					"temperatureMin": 15.3,
+  					"temperatureMax": 23.1,
+  					"summary": "Today is a good weather two"
+  				}
+  			]
+  		}
   	}
 }
