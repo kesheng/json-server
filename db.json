@@ -14,12 +14,16 @@
   				{
   					"temperatureMin": 18.2,
   					"temperatureMax": 28.5,
-  					"summary": "Today is a good weather one"
+  					"summary": "Today is a good weather one",
+  					"lat": 51.462150,
+  					"lng": -0.039880
   				},
   				{
   					"temperatureMin": 15.3,
   					"temperatureMax": 23.1,
-  					"summary": "Today is a good weather two"
+  					"summary": "Today is a good weather two",
+  					"lat": 51.448950,
+  					"lng": -0.005510
   				}
   			]
   		}
