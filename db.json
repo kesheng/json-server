@@ -23,7 +23,6 @@
   		}
   	},
   	"timeline": [
-  		[
   		{
 	        "id": 1239,
 	        "label": "modified post Hello World",
@@ -108,6 +107,5 @@
 	        "label": "liked Lorem Ipsum",
 	        "createdAt": "2019-01-09T09:12:56.000Z"
 	    }
-	]
-	]    
+	] 
 }
