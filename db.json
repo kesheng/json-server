@@ -2,6 +2,38 @@
   	"profile": {
     	"name": "typicode"
   	},
+	"multi-address": [
+		{
+		    "firstName":"John",
+		    "lastName":"Doe",
+		    "address":
+		    {
+			"streetAddress":"1 Peach Drive",
+			"addressLocality":"Wonderland1",
+			"addressRegion":"region1"
+		    }
+		},
+		{
+		    "firstName":"Jim",
+		    "lastName":"Burtton",
+		    "address":
+		    {
+			"streetAddress":"2 Peach Drive",
+			"addressLocality":"Wonderland2",
+			"addressRegion":"region2"
+		    }
+		},
+		{
+		    "firstName":"Toby",
+		    "lastName":"Yong",
+		    "address":
+		    {
+			"streetAddress":"2 Peach Drive",
+			"addressLocality":"Wonderland3",
+			"addressRegion":"region3"
+		    }
+		}
+	],
   	"weather-date": {
   		"daily": {
   			"data": [
